@@ -1,1 +1,1 @@
-# Collaborator
+# Golang-Gin-Template
